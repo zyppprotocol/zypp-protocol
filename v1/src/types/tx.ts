@@ -1,0 +1,3 @@
+interface Transaction {
+    version: number
+}
